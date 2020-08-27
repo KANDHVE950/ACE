@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],.w3layouts_banner_info_right ul li a,.w
 }
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/20.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -59,7 +59,7 @@ input[type="submit"],input[type="reset"],.w3layouts_banner_info_right ul li a,.w
 }
 .navbar-brand span {
     line-height: 0.5;
-    color:#ff0101;
+    color:#BDEDFF;
     text-transform: capitalize;
     transform: rotate(-150deg);
 	-webkit-transform: rotate(-150deg);
@@ -72,14 +72,14 @@ input[type="submit"],input[type="reset"],.w3layouts_banner_info_right ul li a,.w
     color:#0b0d0c;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    color:#ff0101;
+    color:#BDEDFF;
     background: none;
 }
 .navbar-nav > li > a {
 	padding: 0;
     text-transform: uppercase;
     font-weight: bold;
-    margin-left: 136px;
+    margin-left: 60px;
     line-height: 3;
     letter-spacing: 2px;
 }
@@ -104,7 +104,7 @@ input[type="submit"],input[type="reset"],.w3layouts_banner_info_right ul li a,.w
 	margin: 1.8em 0 0;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #ff0101;
+    color: #BDEDFF;
 }
 .nav > li > a {
 	font-family: 'Cabin Condensed', sans-serif;
@@ -121,7 +121,7 @@ input[type="submit"],input[type="reset"],.w3layouts_banner_info_right ul li a,.w
 	height: 100%;
 	width: 100%;
 	border-width: 2px 0;
-	border-color: #ff0101;
+	border-color: #BDEDFF;
 	border-style: solid;
 	left: 0;
 	-webkit-transform: translate3d(-101%,0,0);
@@ -145,7 +145,7 @@ input[type="submit"],input[type="reset"],.w3layouts_banner_info_right ul li a,.w
 }
 
 .link--yaku:hover span {
-	color: #ff0101;
+	color: #BDEDFF;
 	-webkit-transform: perspective(1000px) rotate3d(0,1,0,360deg);
 	transform: perspective(1000px) rotate3d(0,1,0,360deg);
 }
@@ -344,12 +344,13 @@ a.w3_agile_vimeo:hover{
 /*-- banner-bottom --*/
 .banner-bottom,.services,.team,.gallery_main,.contact,.footer{
 	padding:5em 0;
+	background-color: #000000;
 }
 .w3_agileits_banner_bottom_left,.w3_agileits_banner_bottom_right {
     padding: 0;
 }
 .w3_agileits_banner_bottom_right{
-	background:#ff0101;
+	background:#BDEDFF;
     min-height: 443px;
 	position:relative;
 }
@@ -364,10 +365,10 @@ a.w3_agile_vimeo:hover{
     text-transform: capitalize;
     width: 35%;
     text-align: center;
-    color: #fff;
+    color: #000000;
     padding: .5em 0;
-    border-top: 1px solid #fff;
-    border-bottom: 1px solid #fff;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
 }
 .w3_agileits_banner_bottom_right_pos h4{
 	font-size: 1.83em;
@@ -425,7 +426,7 @@ a.w3_agile_vimeo:hover{
     height: 50px;
     text-align: center;
     color: #fff;
-    background: #ff0101;
+    background: #BDEDFF;
     margin: 0 auto;
     border-radius: 25px;
     line-height: 1.5;
@@ -435,8 +436,8 @@ a.w3_agile_vimeo:hover{
 	display: block;
     font-size: .5em;
     padding: .5em 0;
-    border-top: 1px solid #ff0101;
-    border-bottom: 1px solid #ff0101;
+    border-top: 1px solid #BDEDFF;
+    border-bottom: 1px solid #BDEDFF;
     width: 11%;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -498,7 +499,7 @@ a.w3_agile_vimeo:hover{
 }
 .agileits_team_grid h4{
 	font-size:1.2em;
-	color:#ff0101;
+	color:#BDEDFF;
 	margin: .5em 0;
 }
 .agileits_team_grid h4 span{
@@ -673,7 +674,7 @@ a.w3_agile_vimeo:hover{
     font-size: 14px;
     color:#fff;
     font-weight: 600;
-    background: #ff0101;
+    background: #BDEDFF;
     width: 46%;
     border: none;
     text-transform: uppercase;
@@ -689,7 +690,7 @@ a.w3_agile_vimeo:hover{
 .w3_agile_contact_left ul li{
 	display:inline-block;
 	width:25%;
-	border:2px solid #ff0101;
+	border:2px solid #BDEDFF;
 }
 .agile_map_grid ul li{
     display: inline-block;
@@ -705,10 +706,10 @@ a.w3_agile_vimeo:hover{
 	text-decoration:none;
 }
 .agile_map_grid ul li a:hover{
-	color:#ff0101;
+	color:#BDEDFF;
 }
 .agileits_w3layouts_footer_grid ul li a:hover{
-	color:#ff0101;
+	color:#BDEDFF;
 }
 .agile_map_grid ul li i {
     color: #212121;
@@ -718,7 +719,7 @@ a.w3_agile_vimeo:hover{
     border-radius: 50%;
 }
 .agile_map_grid ul li span{
-    color:#ff0101;
+    color:#BDEDFF;
 	font-weight:600;
 }
 .map iframe{
@@ -739,14 +740,14 @@ a.w3_agile_vimeo:hover{
 }
 .agile_map_grid h3{
 	font-size:1.5em;
-	color:#ff0101;
+	color:#BDEDFF;
 	padding-bottom:.5em;
 	position:relative;
 	margin-bottom:1em;
 }
 .agile_map_grid h3:after{
 	content:'';
-	background:#ff0101;
+	background:#BDEDFF;
 	height:2px;
 	width:20%;
 	position:absolute;
@@ -774,7 +775,7 @@ a.w3_agile_vimeo:hover{
 }
 .agileits_w3layouts_footer_grid h3{
 	font-size:1.5em;
-	color:#ff0101;
+	color:#BDEDFF;
 	text-transform:capitalize;
 	margin-bottom:1em;
 }
@@ -804,14 +805,14 @@ a.w3_agile_vimeo:hover{
 }
 .w3_agileits_footer_grid h3{
 	font-size: 1.5em;
-    color: #ff0101;
+    color: #BDEDFF;
     text-transform: capitalize;
     padding-left: 4em;
     position: relative;
 }
 .w3_agileits_footer_grid h3:before{
 	content: '';
-    background: #ff0101;
+    background: #BDEDFF;
     height: 2px;
     width: 20%;
     position: absolute;
@@ -868,7 +869,7 @@ a.w3_agile_vimeo:hover{
 	line-height:2em;
 }
 .wthree_copy_right p a{
-	color:#ff0101;
+	color:#BDEDFF;
 	text-decoration:noen;
 }
 .wthree_copy_right p a:hover{
